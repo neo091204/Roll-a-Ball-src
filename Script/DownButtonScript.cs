@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 下ボタンの処理
 public class DownButtonScript : MonoBehaviour
 {
     private GameObject playerObject;
